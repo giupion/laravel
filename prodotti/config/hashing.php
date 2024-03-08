@@ -14,7 +14,7 @@ return [
     | Supported: "bcrypt", "argon", "argon2id"
     |
     */
-//algoritmo di ashing password
+
     'driver' => 'bcrypt',
 
     /*
