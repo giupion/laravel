@@ -1,7 +1,7 @@
 <?php
 
 return [
-//configuarzione per i sistemi di file, c'e bootstrap e axios dentro
+
     /*
     |--------------------------------------------------------------------------
     | Default Filesystem Disk

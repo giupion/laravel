@@ -5,7 +5,7 @@ use App\Http\Controllers\TaskController;
 use App\Http\Controllers\HomeController;
 
 Route::get('/', function () {
-    return view('home');
+    return view('welcome');
 });
 
 // Rotte per il controller TaskController

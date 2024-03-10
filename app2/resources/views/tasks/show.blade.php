@@ -10,4 +10,3 @@
 
     <a href="{{ route('tasks.edit', $task) }}" class="btn btn-primary">Modifica</a>
 @endsection
-
